@@ -1,6 +1,11 @@
 # CommentGen
 CommentGen is a small python script that generates comment flags with a number via the cmd. 
 
+# Requimes 
+pip install win32api 
+pip install win32clipboard
+pip install terminaltables
+
 # Description:
 The python script generates a comment and a number and copies them to the clipboard. At the same time. 
 About a config.ini a counter, projektid and developerid, specified. 
