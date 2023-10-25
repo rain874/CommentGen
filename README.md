@@ -10,9 +10,9 @@ exit = 0
 
 | Arg | Gen, projektid-Date-counter-developerid |
 
-TD | # ToDo: 037-231023-000001-7001 
-BD | # BugDoc: 037-231023-000004-7001 
-DC | # DocCOM: 037-231023-000005-7001 
+TD | ToDo: 037-231023-000001-7001 
+BD | BugDoc: 037-231023-000004-7001 
+DC | DocCOM: 037-231023-000005-7001 
 
 
 it can be set in the IDE pyCharm colors for TODO. 
