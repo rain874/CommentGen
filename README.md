@@ -19,8 +19,10 @@ it can be set in the IDE pyCharm colors for TODO.
 
 I call the script via a BATCH, the path must be adjusted accordingly.  
 
-1. Download 
-2. unpack into the desired directory
-2. Adjust path in the BATCH. 
-3. Adjust projektid, developerid config.ini. If necessary, adjust counter. 
-4. pyCharm - > Settings - Editor -> Create TODO.  
+
+  1. Download 
+  2. unpack into the desired directory
+  3. Adjust path in the BATCH. 
+  4. Adjust projektid, developerid config.ini. If necessary, adjust counter. 
+  5. pyCharm - > Settings - Editor -> Create TODO.  
+
