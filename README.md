@@ -9,8 +9,7 @@ Usage: set the counter and IDs over the config.ini
 exit = 0
 
 TD = # ToDo: 037-231023-000001-7001
-
-BD  = # BugDoc: 037-231023-000004-7001
+BD = # BugDoc: 037-231023-000004-7001
 
 it can be set in the IDE pyCharm colors for TODO. 
 
