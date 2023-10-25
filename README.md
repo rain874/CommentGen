@@ -5,8 +5,8 @@ CommentGen is a small python script that generates comment flags with a number v
 The python script generates a comment and a number and copies them to the clipboard. At the same time. 
 About a config.ini a counter, projektid and developerid, specified. 
 
-Usage: set the counter and IDs over the config.ini
-exit = 0
+  Usage: set the counter and IDs over the config.ini
+  exit = 0
 
   TD = # ToDo: 037-231023-000001-7001
 
